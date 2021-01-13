@@ -9,7 +9,11 @@
 - 🗣  Open to speaking at your next event!
 
 
-<h2 align="center">I specialize in building Web Applications and I have extensive experience in building "courseware" used to teach in technical schools</h2>
+<br>
+<br>
+<br>
+
+<h2 align="center"><i>I specialize in building Web Applications and I have extensive experience in building "courseware" used to teach in technical schools</i></h2>
 
 <b>Here are some of my most used skills</b>
 
@@ -27,7 +31,7 @@
 <br>
 <br>
 
-Connect with me
+<b>Connect with me</b>
 
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/I_teach_JS) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/daniel-j-scott/)
