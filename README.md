@@ -11,7 +11,7 @@
 
 <h2 align="center">I specialize in building Web Applications and I have extensive experience in building "courseware" used to teach in technical schools</h2>
 
-<h2 align="center">Here are some of my most used skills</h2>
+<b>Here are some of my most used skills</b>
 
 - HTML5
 
