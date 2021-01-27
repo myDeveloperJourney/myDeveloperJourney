@@ -36,6 +36,3 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/daniel-j-scott/)
 
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sX3cf00wK68" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
