@@ -1,8 +1,8 @@
 <!--
 **myDeveloperJourney/myDeveloperJourney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<h1 align="center">Hey there 👋, I'm Daniel JS</h1>
-<h3 align="center">A passionate Full-Stack JavaScript Developer</h3>
+<h1 align="center">Hi there, I'm Daniel JS 👨‍💻</h1>
+<h3 align="center">I am a passionate Full-Stack JavaScript Developer</h3>
 
 - 📫  You can reach me at: **developer@danieljs.io**
 - 🏫 I currently work as a Software Engineering Instructor for General Assembly.
