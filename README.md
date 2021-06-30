@@ -15,15 +15,17 @@
 
 <h2 align="center"><i>I specialize in building Web Applications and I have extensive experience in building "courseware" used to teach in technical schools</i></h2>
 
-<b>Here are some of my most used skills</b>
+<b>Here are some of my most used skills/technologies</b>
 
 - HTML5
 
-- CSS3, SASS, Materialize
+- CSS3, SASS
 
 - JavaScript, Python
 
 - React, Gatsby
+
+- Express, Django
 
 - MongoDB, PostgreSQL 
 
