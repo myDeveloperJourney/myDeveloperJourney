@@ -34,10 +34,12 @@
 <br>
 <br>
 
+
 <b>Connect with me</b>
 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/daniel-j-scott/)
 <br>
 [<img src="https://img.shields.io/badge/YouTube-Check%20Out%20My%20Channel-red" />](https://www.youtube.com/channel/UCmPSUtVgth9zyXpzOM5lNFQ)
-
+<br>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P37I0RY)
