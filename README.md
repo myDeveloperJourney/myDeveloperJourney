@@ -1,45 +1,32 @@
 <!--
 **myDeveloperJourney/myDeveloperJourney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<img id="header" src="./images/background.png" />
+### Hi there, I'm DanielJS 👨🏼‍💻
 
-<br>
+I'm a Software Engineer based in Texas, with a passion for building websites and applications for small business owners. In addition to my work as a developer, I serve as a Software Engineering Instructor and Distinguished Faculty Member at General Assembly, where I share my passion for technology with other career transitioners.
 
-<h2 align="center"><i>I specialize in building Applications and Websites using JavaScript, and I have extensive experience in building "courseware" used to teach in technical schools
-</i></h2>
+I specialize in building applications and websites using JavaScript, and I have extensive experience in creating "courseware" used to teach in technical schools. My goal is to help others learn how to code and build their own applications, so they can pursue their own passions and career goals.
 
-<br>
-<br>
+- 🌱 I’m currently learning Cyber/Web Application Security
+- 💬 Ask me about how I help career transitioners break into tech
 
-<b>Here are some of my most used skills/technologies</b>
 
-<br>
-<br>
+### 🚀 Skills and Tools:
 
 - HTML5
-
 - CSS3, SASS
-
 - JavaScript, Python
-
 - React
-
 - Express, Django
+- MongoDB, PostgreSQL
 
-- MongoDB, PostgreSQL 
+### 🌎 Find me around the web:
 
-<br>
-<br>
-<br>
+- [Personal Website](https://danieljs.io)
+- [LinkedIn](https://www.linkedin.com/in/daniel-j-scott/)
+- [Twitter](https://twitter.com/dvlpr_dan)
 
+### 📊 GitHub Stats:
 
-<b>My Links</b>
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=myDeveloperJourney&show_icons=true&theme=dark)
 
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/daniel-j-scott/)
-
-[<img src="https://img.shields.io/badge/YouTube-Check%20Out%20My%20Channel-red" />](https://www.youtube.com/channel/UCmPSUtVgth9zyXpzOM5lNFQ)
-<br>
-<br>
-<br>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P37I0RY)
