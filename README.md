@@ -10,6 +10,10 @@ I specialize in building applications and websites using JavaScript, and I have 
 - 🌱 I’m currently learning Cyber/Web Application Security
 - 💬 Ask me about how I help career transitioners break into tech
 
+### I have a newsletter on LinkedIn
+
+
+<a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7037147055806439424" target="_blank">Subscribe on LinkedIn</a>
 
 ### 🚀 Skills and Tools:
 
