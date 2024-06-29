@@ -42,3 +42,4 @@ In addition to my work as a developer, I run a Web/Software Development studio (
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=myDeveloperJourney&show_icons=true&theme=dark)
 
 <!-- https://www.hackthebox.com/achievement/machine/1993955/472 -->
+<!-- https://www.hackthebox.com/achievement/machine/1993955/396 -->
