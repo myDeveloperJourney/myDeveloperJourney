@@ -46,3 +46,4 @@ In addition to my work as a developer, I run a Web/Software Development studio (
 <!-- https://www.hackthebox.com/achievement/machine/1993955/397 -->
 <!-- https://www.hackthebox.com/achievement/machine/1993955/501 -->
 <!-- https://www.hackthebox.com/achievement/machine/1993955/515 -->
+<!-- https://www.hackthebox.com/achievement/machine/1993955/402 -->
