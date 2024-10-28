@@ -43,7 +43,7 @@ In addition to my work as a developer, I run a Web/Software Development studio (
 
 ### TryHackMe Stats:
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/cyb3rph03n1x.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/cyb3rph03n1x.png?update=0" alt="Your Image Badge" />
 
 <!-- https://www.hackthebox.com/achievement/machine/1993955/472 -->
 <!-- https://www.hackthebox.com/achievement/machine/1993955/396 -->
