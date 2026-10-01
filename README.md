@@ -1,16 +1,18 @@
-### Hey there, I'm Dan 👋
+### Hey there, I'm Dan
 
-**AI Systems Engineer & Full-Stack Software Engineer** based in Texas. I build AI-powered systems — agentic workflows, LLM-integrated apps, and the production guardrails that make them safe to ship — on top of a decade of full-stack engineering.
+**AI Systems and Software Engineer and Technical Training Facilitator** based in Texas. I help tech professionals level up by making software and AI-enabled solutions accessible, with a focus on building agentic workflows they can actually run.
 
-I run [MDJ Studios](https://mdjstudios.com), a web/software studio building and maintaining sites, web apps, and SaaS for small businesses. I also teach enterprise engineers as a Senior Software Engineering Instructor at General Assembly, where I design and deliver AI and full-stack courseware.
+I've been teaching since 2017 and have trained 1000+ professionals. Clear, hands-on, and focused on what ships. I also serve as a Senior Lead Technical Trainer at General Assembly.
+
+Client and product work runs through [MDJ Studios](https://mdjstudios.com). If you're a company hiring for training, facilitation, or AI systems work, I'm open to that conversation too.
 
 🔭 **What I'm building**
-- Agentic systems and multi-agent orchestration (routing, tools, guardrails)
-- LLM-integrated applications and personal-AI-ops tooling
-- Full-stack products end to end, from data model to deploy
+- Agentic AI workflows and multi-agent systems (routing, tools, guardrails)
+- LLM-integrated applications tech professionals can run in production
+- Full-stack products that support those systems, end to end
 
 🧰 **Tech**
-- **AI/ML:** LLMs, agents & ReAct patterns, RAG, prompt engineering, Python, FastAPI
+- **AI/ML:** LLMs, agents and ReAct patterns, RAG, prompt engineering, Python, FastAPI
 - **Full-stack:** TypeScript, React, Next.js, Node/Express, Django, PostgreSQL, MongoDB
 - **Ship it:** Railway, AWS, Docker, CI/CD
 
@@ -20,4 +22,4 @@ I run [MDJ Studios](https://mdjstudios.com), a web/software studio building and 
 
 ---
 
-_Pinned below: a few projects that show the range — agentic AI, full-stack apps, and client work._
+_Pinned below: projects that show agentic AI, full-stack apps, and client work._
